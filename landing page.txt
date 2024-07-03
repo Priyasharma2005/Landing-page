@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        <header> {
+            background: #50b3a2;
+            color: white;
+            padding: 10px 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        .cta {
+            background: #ff6f61;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to our Landing Page</h1>
+    </header>
+    <main>
+        <h2>Discover Amazing Features</h2>
+        <p>Join us to explore the most exciting features.</p>
+        <a href="#signup" class="cta">Sign Up Now</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Company. All Rights Reserved. </p>
+    </footer>
+</body>
+</html>
+
+
+        
